@@ -1,0 +1,6 @@
+{
+  "name": "Rainbow Colors - Primary English Fun Lab",
+  "description": "An interactive, joyful color learning classroom game studio with Bingo, Sentence Puzzle, and 2-Player PK Game for elementary English teachers and students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
